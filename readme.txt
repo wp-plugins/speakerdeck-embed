@@ -3,7 +3,7 @@ Contributors: mattwiebe
 Tags: slideshow, presentation, embed, oembed, speakerdeck
 Requires at least: 3.2
 Tested up to: 3.2.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Easily embed Speaker Deck presentations in your WordPress blog.
 
@@ -28,6 +28,9 @@ This plugin talks to Speaker Deck's oEmbed provider and transparently embeds you
 2. Your Speaker Deck presentation embeds beautifully on your blog.
 
 == Changelog ==
+
+= 1.1 =
+* Update to new Speakerdeck URL format. Props baxang & simonwheatley
 
 = 1.0 =
 * Initial release
